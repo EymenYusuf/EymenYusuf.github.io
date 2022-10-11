@@ -62,7 +62,7 @@ layout: page
 
         <!-- categories -->
         {% if post.categories.size > 0 %}
-          <span 
+          <span>
           {% for category in post.categories %}
             [{{ category }}]
             {%- unless forloop.last -%} {%- endunless -%}
