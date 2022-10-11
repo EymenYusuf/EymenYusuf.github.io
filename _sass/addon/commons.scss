@@ -2,12 +2,16 @@
   The common styles
 */
 
-div#post-list a {
-    color: #32b197 !important;
-}
+
 
 ul.list-unstyled a {
     color: #32b197 !important;
+}
+
+#post-list .post-preview h1 {
+    color: #32b197 !important;
+    font-size: 1.2rem !important;
+    margin: 0;
 }
 
 
