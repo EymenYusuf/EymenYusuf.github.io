@@ -23,7 +23,7 @@ timezone:
 
 title: r00tx                          # the main title
 
-tagline: YUSUF EYMEN | Siber Güvenlik Yazı Dizisi   # it will display as the sub-title
+tagline: Siber Güvenlik Yazı Dizisi<br>YUSUF EYMEN</br>   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   cyber security, ics, ot, scada, threat intelligence
