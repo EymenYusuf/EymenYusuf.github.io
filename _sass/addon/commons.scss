@@ -7,7 +7,7 @@ div#post-list a {
 }
 
 #page-category a:hover, #page-tag a:hover, .license-wrapper>a:hover, #post-list .post-preview a:hover, #search-results a:hover, #topbar #breadcrumb a:hover, .post-content a:not(.img-link):hover, .post-meta a:not([class]):hover, .post a:hover code, #access-lastmod a:hover, footer a:hover {
-    color: #008080 !important;
+    color: #008080;
     border-bottom: 1px solid #008080;
     text-decoration: none;
 }
@@ -15,6 +15,15 @@ div#post-list a {
 #post-list .post-preview h1 {
     font-size: 1.2rem !important;
     margin: 0;
+}
+
+div#post-list p {
+    color: #6c757d !important;
+}
+
+
+ul.list-unstyled a {
+    color: #5f9ea0 !important;
 }
 
 
