@@ -12,12 +12,11 @@
     margin: 0;
 }
 
-.post-preview a:hover {
+#post-list .post-preview a:hover {
     color: #008080 !important;
     border-bottom: 1px solid #008080 !important;
     text-decoration: none;
 }
-
 
 html {
   @media (prefers-color-scheme: light) {
