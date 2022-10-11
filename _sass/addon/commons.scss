@@ -2,6 +2,11 @@
   The common styles
 */
 
+div#post-list a {
+    color: #32b197 !important;
+}
+
+
 html {
   @media (prefers-color-scheme: light) {
     &:not([data-mode]),
